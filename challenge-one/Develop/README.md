@@ -16,10 +16,12 @@ USAGE
 
 LINKS TO THE WEBPAGE https://muturich.github.io/home-work-one/challenge-one/Develop/index.html
 
+![image](https://user-images.githubusercontent.com/87868537/197058405-4436ec09-c503-4eb4-827e-ba2f7d04d4a4.png)
 
-![image](https://user-images.githubusercontent.com/87868537/197057677-506811d1-abc9-449d-8761-497a0f457dc4.png)
+![image](https://user-images.githubusercontent.com/87868537/197058432-46a06b4c-709a-441f-b57d-f2e7ed96a095.png)
 
-![image](https://user-images.githubusercontent.com/87868537/197057957-ae2cb57a-0ae4-460a-ad32-ce4e6cd89c2c.png)
+
+
 
 
 
