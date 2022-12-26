@@ -56,4 +56,4 @@ Develop/index.html
 
 
 
-LINKS TO THE WEBPAGE https://muturich.github.io/home-work-one/challenge-one/
+LINKS TO THE WEBPAGE https://muturich.github.io/home-work-one/Develop/index.html
