@@ -51,11 +51,9 @@ Develop/index.html
 
 ![image](https://user-images.githubusercontent.com/87868537/197058405-4436ec09-c503-4eb4-827e-ba2f7d04d4a4.png)
 
-<img width="1115" alt="image" src="https://user-images.githubusercontent.com/87868537/209576508-974d2918-0fe2-4260-b6b9-4f5c0fe8215b.png">
-
 
 ![image](https://user-images.githubusercontent.com/87868537/197058432-46a06b4c-709a-441f-b57d-f2e7ed96a095.png)
 
-<img width="1096" alt="image" src="https://user-images.githubusercontent.com/87868537/209576473-29b34db1-5eae-45b8-8b6b-707aaf6c6d3f.png">
+
 
 LINKS TO THE WEBPAGE https://muturich.github.io/home-work-one/challenge-one/
