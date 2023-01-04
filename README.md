@@ -53,4 +53,4 @@ Develop/index.html
 
 ![image](https://user-images.githubusercontent.com/87868537/197058432-46a06b4c-709a-441f-b57d-f2e7ed96a095.png)
 
-LINKS TO THE WEBPAGE https://muturich.github.io/home-work-one/Develop/index.html
+LINKS TO THE WEBPAGE https://muturich.github.io/home-work-one/challenge-one/
